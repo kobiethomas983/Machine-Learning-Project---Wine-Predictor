@@ -23729,7 +23729,6 @@ var createMicrosoftUnsafeLocalFunction = function (func) {
     return func;
   }
 };
->>>>>>> df2d15a9731f8f4f77a71df3729709d47096d21e
 
 // SVG temp container for IE lacking innerHTML
 var reusableSVGContainer = void 0;
